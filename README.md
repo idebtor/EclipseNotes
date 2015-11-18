@@ -1,9 +1,9 @@
-# Note123EclipseJava
-My tips and notes for Java coding and Eclipse IDE for Java Development
+# EclipseNotes
+My notes and tips for Eclipse IDE for Java Development
 
 To create a new repository on the command line
 ```
-echo # Note123EclipseJava >> README.md
+echo # EclipseNotes >> README.md
 git init
 git add README.md
 git commit -m "first commit"
