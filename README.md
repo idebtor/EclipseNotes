@@ -1,5 +1,5 @@
 # EclipseNotes
-My notes and tips for Eclipse IDE for Java Development
+My notes and tips on Eclipse IDE for Java Development
 
 To create a new repository on the command line
 ```
